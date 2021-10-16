@@ -36,4 +36,29 @@
 
 按照上面的计算方式，发现这两个都在192.168.0.0 网段。但实际上使用packet tracer实验却**不能通信**，在实验中发现**arp协议都发送失败**
 
-我暂且不知道原因。
+<font color=red>我暂且不知道原因。</font>
+
+
+
+<h3>传输层</h3>
+
+<h4>1.三次握手流程</h4>
+
+![三次握手](.\images\三次握手.png)
+
+<h4>2.四次挥手流程</h4>
+
+![四次挥手](.\images\四次挥手.png)
+
+![三次挥手](.\images\三次挥手.png)
+
+<h4>如何确保可靠传输</h4>
+
+<h4>如何控制流量</h4>
+
+<h4>拥塞如何控制</h4>
+
+<font color=red>TCP payload是什么意思</font>
+
+![tcp_payload](.\images\tcp_payload.png)
+
