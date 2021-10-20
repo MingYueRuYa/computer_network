@@ -44,7 +44,28 @@
 
 ![image-20210914105753570](E:\my_document\computer_network\images\image-20210914105753570.png)
 
+#### 3、MAC地址
 
+* 买个网卡都有一个6个字节（48bit）的MAC地址（Media Access Control Address）***长度6字节***
+
+* 全球***唯一***，固化在网卡的ROM中，有IEEE802标准规定 ***类似身份证 ID***
+* 前3个字节：OUI（Organizationally Unique Identifier) ，***组织唯一标识符***
+  - 有IEEE的注册管理机构分配给厂商
+* 后3个字节：***网络接口标识符***
+  * 厂商自己分配
+  <img src=".\images\mac地址.png" style="zoom:50%;" />
+
+1. MAC分类
+
+   [MAC分类]: http://standards-oui.ieee.org/oui/oui.txt
+
+2. MAC获取
+
+   - ipconfig -all 命令
+
+3. ARP协议
+
+4. <font color=red>MAC地址全为1表示广播地址 **(FF:FF:FF:FF)**</font>
 
 **问题：**
 
@@ -58,7 +79,7 @@
 
 按照上面的计算方式，发现这两个都在192.168.0.0 网段。但实际上使用packet tracer实验却**不能通信**，在实验中发现**arp协议都发送失败**
 
-<font color=red>我暂且不知道原因。</font>
+<font color=red>**我暂且不知道原因。**</font>
 
 ## 网络层
 
@@ -76,11 +97,11 @@
 
 ![三次挥手](.\images\三次挥手.png)
 
-#### 3、如何确保可靠传输
+### 2、如何确保可靠传输
 
-#### 4、如何控制流量
+### 3、如何控制流量
 
-#### 5、拥塞如何控制
+### 4、拥塞如何控制
 
 <font color=red>TCP payload是什么意思</font>
 
