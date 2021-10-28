@@ -1,0 +1,14 @@
+-rw-r--r-- 1 S4771 1049089 548854 Oct 28 19:29 Screenshot_20211016_225811_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 488207 Oct 28 19:29 Screenshot_20211016_230523_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 455993 Oct 28 19:29 Screenshot_20211016_230629_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 228868 Oct 28 19:29 Screenshot_20211022_070258_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 325316 Oct 28 19:29 Screenshot_20211022_070459_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 270881 Oct 28 19:29 Screenshot_20211022_072432_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 406075 Oct 28 19:29 Screenshot_20211022_072703_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 277856 Oct 28 19:29 Screenshot_20211023_214933_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 247375 Oct 28 19:29 Screenshot_20211023_214943_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 291495 Oct 28 19:29 Screenshot_20211023_214958_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 333027 Oct 28 19:29 Screenshot_20211023_215220_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 474571 Oct 28 19:29 Screenshot_20211023_220538_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 310935 Oct 28 19:29 Screenshot_20211023_221051_org.videolan.vlc.jpg
+-rw-r--r-- 1 S4771 1049089 391437 Oct 28 19:29 Screenshot_20211023_221131_org.videolan.vlc.jpg
